@@ -2,14 +2,6 @@
 
 Welcome to the Tours Website project! This project is a web application designed to help users find and book tours. It provides detailed information about various tours, including descriptions, prices, and availability.
 
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Technologies Used](#technologies-used)
-
-
 ## Features
 
 - Browse a variety of tours
